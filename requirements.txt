@@ -1,0 +1,12 @@
+torch>=2.1
+diffusers>=0.30.0
+transformers
+accelerate
+peft
+safetensors
+huggingface_hub
+Pillow
+numpy
+tqdm
+torchvision
+scipy

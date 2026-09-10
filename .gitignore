@@ -1,0 +1,16 @@
+# Local caches and generated files
+_hf_upload/
+checkpoints/
+outputs/
+__pycache__/
+*.pyc
+*.pyo
+.cache/
+.DS_Store
+
+# Large weight files should be downloaded from Hugging Face
+*.pth
+*.safetensors
+*.bin
+*.pt
+!network/**
